@@ -32,4 +32,5 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=mohanmahesh10&show_icons=true&locale=en" alt="mohanmahesh10" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=mohanmahesh10&" alt="mohanmahesh10" /></p>
+![LeetCode Stats](https://leetcard.jacoblin.cool/boggavarapumohanmahesh?theme=light&font=Marcellus&ext=contest)
+
