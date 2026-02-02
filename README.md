@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://twitter.com/mohanmahesh1008" target="blank"><img src="https://img.shields.io/twitter/follow/mohanmahesh1008?logo=twitter&style=for-the-badge" alt="mohanmahesh1008" /></a> </p>
 
-- 🌱 I’m currently learning **spring and Spring Boot**
+- 🌱 I’m currently  **Building**
 
 - 📝 I regularly write articles on [https://medium.com/@boggavarapumohanmahesh](https://medium.com/@boggavarapumohanmahesh)
 
