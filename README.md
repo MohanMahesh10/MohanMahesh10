@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm MOHAN MAHESH BOGGAVARAPU</h1>
-<h3 align="center">A passionate DATA to AI AND Software Engineer</h3>
+<h3 align="center">A passionate DATA to AI AND FDE-Software Engineer</h3>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=mohanmahesh10" alt="mohanmahesh10" /></a> </p>
 
@@ -8,8 +8,6 @@
 - 🌱 I’m currently  **Building**
 
 - 📝 I regularly write articles on [https://medium.com/@boggavarapumohanmahesh](https://medium.com/@boggavarapumohanmahesh)
-
-- 💬 Ask me about **GEN AI,GCP, AZURE**
 
 - 📫 How to reach me **boggavarapumohanmahesh@gmail.com**
 
